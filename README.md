@@ -160,7 +160,7 @@ These features activate automatically when the `NEXT_PUBLIC_WS_URL` environment 
 
 ## 🚀 Deployment
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Naresh-Khatri/3d-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/siddharthsingh2698/My-Portfolio)
 
 This site is deployed on **Vercel**. To deploy your own:
 
@@ -181,4 +181,12 @@ If you'd like to contribute or suggest improvements, feel free to open an issue 
 
 This project is open source and available under the [MIT License](LICENSE).
 
-If you use this portfolio, a credit or link back to the [original repo](https://github.com/Naresh-Khatri/3d-portfolio) would be much appreciated ❤️
+---
+
+## 🙏 Attribution
+
+**Portfolio by:** [Siddharth Singh](https://github.com/siddharthsingh2698)
+
+**Original Template by:** [Naresh Khatri](https://github.com/Naresh-Khatri/3d-portfolio)
+
+This portfolio is built on the excellent open-source template created by Naresh Khatri. Special thanks to the original creator for the amazing design and features!
