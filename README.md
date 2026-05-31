@@ -2,11 +2,9 @@
 
 A jaw-dropping developer portfolio packed with interactive 3D animations, buttery smooth transitions, and a space-themed aesthetic. Not your average portfolio template! This one has a fully interactive 3D keyboard where each keycap is a skill.
 
-> **Free to use!** This portfolio is open source. If you use it, a credit/link back would be really appreciated 🙏
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/siddharthsingh2698/My-Portfolio)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Naresh-Khatri/3d-portfolio)
-
-![Portfolio Preview](https://github.com/Naresh-Khatri/Portfolio/blob/main/public/assets/projects-screenshots/portfolio/landing.png?raw=true)
+![Portfolio Preview](https://github.com/siddharthsingh2698/My-Portfolio/blob/main/public/assets/projects-screenshots/portfolio/landing.png?raw=true)
 
 ## ✨ Features
 
@@ -43,8 +41,8 @@ A jaw-dropping developer portfolio packed with interactive 3D animations, butter
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Naresh-Khatri/3d-portfolio.git
-    cd 3d-portfolio
+    git clone https://github.com/siddharthsingh2698/My-Portfolio.git
+    cd My-Portfolio
     ```
 
 2. **Install dependencies:**
